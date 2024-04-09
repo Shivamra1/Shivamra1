@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shivam
 - 👀 I’m interested in Data Science & Data Analytics
 - 🌱 I’m currently learning Data Science Subjects
-- 💞️ I’m looking forward to any job related to Data Analyst and DataScience
+- 💞️ I’m working as a Data Analyst
 - 📫 How to reach me you can ping me in Github itself.
 
 <!---
